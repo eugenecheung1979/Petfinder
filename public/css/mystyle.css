@@ -1,0 +1,10 @@
+.navbar-brand {
+  padding: 0px; /* firefox bug fix */
+}
+.navbar-brand>img {
+   max-height: 100%;
+   height: 100%;
+   width: auto;
+   margin: 0 auto;
+}
+
